@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.List[LandDefense.ContentModels.TowerInfor]">
+
+    <Item id="01">
+      <DamageType>1</DamageType>
+      <MinDamage>9</MinDamage>
+      <MaxDamage>17</MaxDamage>
+      <Interval>500</Interval>
+      <Range>80</Range>
+      <NeededPower>90</NeededPower>
+      <TowerTypeName>MagicTower_level1</TowerTypeName>
+      <NextTowerLevel>MagicTower_level2</NextTowerLevel>
+    </Item>
+    <Item  id="02">
+      <DamageType>1</DamageType>
+      <MinDamage>23</MinDamage>
+      <MaxDamage>43</MaxDamage>
+      <Interval>400</Interval>
+      <Range>120</Range>
+      <NeededPower>144</NeededPower>
+      <TowerTypeName>MagicTower_level2</TowerTypeName>
+      <NextTowerLevel>MagicTower_level3</NextTowerLevel>
+    </Item>
+    <Item  id="03">
+      <DamageType>1</DamageType>
+      <MinDamage>40</MinDamage>
+      <MaxDamage>60</MaxDamage>
+      <Interval>300</Interval>
+      <Range>180</Range>
+      <NeededPower>216</NeededPower>
+      <TowerTypeName>MagicTower_level3</TowerTypeName>
+      <NextTowerLevel>MagicTower_level4_01</NextTowerLevel>
+    </Item>
+    <Item  id="04">
+      <DamageType>1</DamageType>
+      <MinDamage>42</MinDamage>
+      <MaxDamage>78</MaxDamage>
+      <Interval>2000</Interval>
+      <Range>200</Range>
+      <NeededPower>270</NeededPower>
+      <TowerTypeName>MagicTower_level4</TowerTypeName>
+      <NextTowerLevel>None</NextTowerLevel>
+    </Item>
+    <Item  id="06">
+      <DamageType>2</DamageType>
+      <MinDamage>8</MinDamage>
+      <MaxDamage>16</MaxDamage>
+      <Interval>600</Interval>
+      <Range>80</Range>
+      <NeededPower>70</NeededPower>
+      <TowerTypeName>ArrowTower_level1</TowerTypeName>
+      <NextTowerLevel>ArrowTower_level2</NextTowerLevel>
+    </Item>
+    <Item  id="07">
+      <DamageType>2</DamageType>
+      <MinDamage>17</MinDamage>
+      <MaxDamage>21</MaxDamage>
+      <Interval>800</Interval>
+      <Range>120</Range>
+      <NeededPower>100</NeededPower>
+      <TowerTypeName>ArrowTower_level2</TowerTypeName>
+      <NextTowerLevel>ArrowTower_level3</NextTowerLevel>
+    </Item>
+    <Item  id="08">
+      <DamageType>2</DamageType>
+      <MinDamage>20</MinDamage>
+      <MaxDamage>28</MaxDamage>
+      <Interval>1000</Interval>
+      <Range>150</Range>
+      <NeededPower>160</NeededPower>
+      <TowerTypeName>ArrowTower_level3</TowerTypeName>
+      <NextTowerLevel>ArrowTower_level4</NextTowerLevel>
+    </Item>
+    <Item  id="09">
+      <DamageType>2</DamageType>
+      <MinDamage>30</MinDamage>
+      <MaxDamage>36</MaxDamage>
+      <Interval>1200</Interval>
+      <Range>200</Range>
+      <NeededPower>230</NeededPower>
+      <TowerTypeName>ArrowTower_level4</TowerTypeName>
+      <NextTowerLevel>None</NextTowerLevel>
+    </Item>
+    <Item  id="11">
+      <DamageType>2</DamageType>
+      <MinDamage>7</MinDamage>
+      <MaxDamage>14</MaxDamage>
+      <Interval>400</Interval>
+      <Range>100</Range>
+      <NeededPower>110</NeededPower>
+      <TowerTypeName>TurretTower_level1</TowerTypeName>
+      <NextTowerLevel>TurretTower_level2</NextTowerLevel>
+    </Item>
+    <Item  id="12">
+      <DamageType>2</DamageType>
+      <MinDamage>20</MinDamage>
+      <MaxDamage>39</MaxDamage>
+      <Interval>600</Interval>
+      <Range>150</Range>
+      <NeededPower>190</NeededPower>
+      <TowerTypeName>TurretTower_level2</TowerTypeName>
+      <NextTowerLevel>TurretTower_level3</NextTowerLevel>
+    </Item>
+    <Item  id="13">
+      <DamageType>2</DamageType>
+      <MinDamage>30</MinDamage>
+      <MaxDamage>66</MaxDamage>
+      <Interval>800</Interval>
+      <Range>180</Range>
+      <NeededPower>280</NeededPower>
+      <TowerTypeName>TurretTower_level3</TowerTypeName>
+      <NextTowerLevel>TurretTower_level4</NextTowerLevel>
+    </Item>
+    <Item  id="14">
+      <DamageType>2</DamageType>
+      <MinDamage>40</MinDamage>
+      <MaxDamage>80</MaxDamage>
+      <Interval>1000</Interval>
+      <Range>200</Range>
+      <NeededPower>330</NeededPower>
+      <TowerTypeName>TurretTower_level4</TowerTypeName>
+      <NextTowerLevel>None</NextTowerLevel>
+    </Item>
+    <Item   id="15">
+      <DamageType>1</DamageType>
+      <MinDamage>4</MinDamage>
+      <MaxDamage>6</MaxDamage>
+      <Interval>2000</Interval>
+      <Range>50</Range>
+      <NeededPower>70</NeededPower>
+      <TowerTypeName>BarracksTower_level1</TowerTypeName>
+      <NextTowerLevel>BarracksTower_level2</NextTowerLevel>
+    </Item>
+    <Item  id="16">
+      <DamageType>1</DamageType>
+      <MinDamage>4</MinDamage>
+      <MaxDamage>6</MaxDamage>
+      <Interval>2000</Interval>
+      <Range>50</Range>
+      <NeededPower>70</NeededPower>
+      <TowerTypeName>BarracksTower_level2</TowerTypeName>
+      <NextTowerLevel>BarracksTower_level3</NextTowerLevel>
+    </Item>
+    <Item  id="17">
+      <DamageType>1</DamageType>
+      <MinDamage>4</MinDamage>
+      <MaxDamage>6</MaxDamage>
+      <Interval>2000</Interval>
+      <Range>50</Range>
+      <NeededPower>70</NeededPower>
+      <TowerTypeName>BarracksTower_level3</TowerTypeName>
+      <NextTowerLevel>BarracksTower_level4</NextTowerLevel>
+    </Item>
+    <Item  id="18">
+      <DamageType>1</DamageType>
+      <MinDamage>4</MinDamage>
+      <MaxDamage>6</MaxDamage>
+      <Interval>2000</Interval>
+      <Range>50</Range>
+      <NeededPower>70</NeededPower>
+      <TowerTypeName>BarracksTower_level4</TowerTypeName>
+      <NextTowerLevel>None</NextTowerLevel>
+    </Item>
+  </Asset>
+</XnaContent>

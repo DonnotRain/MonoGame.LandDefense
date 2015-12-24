@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[LandDefense.ContentModels.LevelRoundInfor]">
+    <Item>
+      <RoundIndex>0</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>12</EnemiesCount>
+      <EnemyName>滴水兽</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>0</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>12</EnemiesCount>
+      <EnemyName>滴水兽</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>0</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>暗骑士</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>1</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>暗黑屠夫</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>2</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>暗骑士</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>2</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>暗骑士</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>3</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>暗黑屠夫</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>3</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>暗骑士</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>3</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>暗骑士</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>4</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>滴水兽</EnemyName>
+    </Item>
+    <Item>
+      <RoundIndex>4</RoundIndex>
+      <RoadIndex> 0</RoadIndex>
+      <EnemiesCount>6</EnemiesCount>
+      <EnemyName>小恶魔</EnemyName>
+    </Item>
+
+  </Asset>
+</XnaContent>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.List[LandDefense.ContentModels.EnemyType]">
+
+    <Item id="1">
+      <Velocity>2 2</Velocity>
+      <EnemyName>滴水兽</EnemyName>
+      <TextureName>EnemiesImage\bianfu_hei_47_47</TextureName>
+      <MinDamage>1</MinDamage>
+      <MaxDamage>2</MaxDamage>
+      <Interval>1200</Interval>
+      <Range>50</Range>
+      <IsFlying>1</IsFlying>
+      <LifeNum>150</LifeNum>
+      <Armor>1</Armor>
+      <AgainstSpells>1</AgainstSpells>
+    </Item>
+    <Item id="2">
+      <Velocity>2.5 2.4</Velocity>
+      <EnemyName>小恶魔</EnemyName>
+      <TextureName>EnemiesImage\bianfu_huang_48_53</TextureName>
+      <MinDamage>1</MinDamage>
+      <MaxDamage>2</MaxDamage>
+      <Interval>1200</Interval>
+      <Range>30</Range>
+      <IsFlying>1</IsFlying>
+      <LifeNum>250</LifeNum>
+      <Armor>1</Armor>
+      <AgainstSpells>1</AgainstSpells>
+    </Item>
+    <Item>
+      <Velocity>2 2</Velocity>
+      <EnemyName>暗骑士</EnemyName>
+      <TextureName>EnemiesImage\enemy_001_44_35</TextureName>
+      <MinDamage>15</MinDamage>
+      <MaxDamage>25</MaxDamage>
+      <Interval>1200</Interval>
+      <Range>30</Range>
+      <IsFlying>0</IsFlying>
+      <LifeNum>350</LifeNum>
+      <Armor>1</Armor>
+      <AgainstSpells>1</AgainstSpells>
+    </Item>
+    <Item>
+      <Velocity>2 2</Velocity>
+      <EnemyName>暗黑屠夫</EnemyName>
+      <TextureName>EnemiesImage\enemy_003_47_46</TextureName>
+      <MinDamage>24</MinDamage>
+      <MaxDamage>76</MaxDamage>
+      <Interval>1200</Interval>
+      <Range>30</Range>
+      <IsFlying>0</IsFlying>
+      <LifeNum>600</LifeNum>
+      <Armor>1</Armor>
+      <AgainstSpells>1</AgainstSpells>
+    </Item>
+    <Item>
+      <Velocity>2 2</Velocity>
+      <EnemyName>亡命徒</EnemyName>
+      <TextureName>EnemiesImage\enemy_002_49_40</TextureName>
+      <MinDamage>16</MinDamage>
+      <MaxDamage>24</MaxDamage>
+      <Interval>1200</Interval>
+      <Range>30</Range>
+      <IsFlying>0</IsFlying>
+      <LifeNum>100</LifeNum>
+      <Armor>1</Armor>
+      <AgainstSpells>1</AgainstSpells>
+    </Item>
+  </Asset>
+</XnaContent>

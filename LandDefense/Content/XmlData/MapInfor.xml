@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[LandDefense.ContentModels.MapInfor]">
+    <Item>
+      <EndPosition>200 600</EndPosition>
+      <PositionArray>329009329133327191316224283250253262207278184286170297169357177394233420334419461437536412567381654354697352720352</PositionArray>
+      <TowerPositionArray>236182289298272376469354108388584443</TowerPositionArray>
+      <MapIndex>0</MapIndex>
+      <MapTexture>Level_001</MapTexture>
+      <AllPowerNumber>500</AllPowerNumber>
+      <AllRound>20</AllRound>
+    </Item>
+    <Item>
+      <EndPosition>200 600</EndPosition>
+      <PositionArray>700160657200582200512165501100467092445087388115361190310216283218201228169260170294177314213333285332314331369316409323450346454391418429389436315471314467306548309586313610</PositionArray>
+      <TowerPositionArray>437140436189293149253270300387370370526408340263</TowerPositionArray>
+      <MapIndex>1</MapIndex>
+      <MapTexture>Level_002</MapTexture>
+      <AllPowerNumber>500</AllPowerNumber>
+      <AllRound>20</AllRound>
+    </Item>
+    <Item>
+      <EndPosition>200 600</EndPosition>
+      <PositionArray>288558287478251393250354294334341320403292449198488161467112403077403018402000</PositionArray>
+      <TowerPositionArray>325411173369245284518230375136417437</TowerPositionArray>
+      <MapIndex>2</MapIndex>
+      <MapTexture>Level_003</MapTexture>
+      <AllPowerNumber>600</AllPowerNumber>
+      <AllRound>20</AllRound>
+    </Item>
+    <Item>
+      <EndPosition>200 600</EndPosition>
+      <PositionArray>454004460124248135182165164206212257518268538368306384233444279496469517469530</PositionArray>
+      <TowerPositionArray>427193346196257190256314346310446309485434322434400436</TowerPositionArray>
+
+      <MapIndex>3</MapIndex>
+      <MapTexture>Level_004</MapTexture>
+      <AllPowerNumber>700</AllPowerNumber>
+      <AllRound>20</AllRound>
+    </Item>
+    <Item>
+      <EndPosition>200 600</EndPosition>
+      <PositionArray>550590505497200481168433206372549356644250602130488118</PositionArray>
+      <TowerPositionArray>589497527433604409431430370430262430262301564264546186</TowerPositionArray>
+      <MapIndex>4</MapIndex>
+      <MapTexture>Final_Boss</MapTexture>
+      <AllPowerNumber>900</AllPowerNumber>
+      <AllRound>20</AllRound>
+    </Item>
+
+
+  </Asset>
+</XnaContent>
